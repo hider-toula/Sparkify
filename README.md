@@ -1,7 +1,7 @@
 # Sparkify
 Capstone Project, Udacity Data Science Nanodegree
 
-Github Repo:https://github.com/linpingyu/Sparkify
+Github Repo:https://github.com/hider-toula/Sparkify
 
 # Files Contained in this Repo
 Notebook Sparkify.ipynb
